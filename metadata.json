@@ -1,0 +1,6 @@
+{
+  "name": "Microscope Cell Counter",
+  "description": "Automated blood smear count analyzing RBC, WBC, and Platelets under microscope, with interactive manual override and PDF clinical report.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
